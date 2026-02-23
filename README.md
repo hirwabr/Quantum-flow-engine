@@ -26,6 +26,6 @@ QuantumFlow utilizes **Variational Quantum Circuits (VQC)** integrated into a **
 1. **Auto-Benchmark:** Demonstrates a standard federated learning round.
 2. **Shock Simulation:** Trigger a region-wide supply chain disruption to see the Quantum-Lead in action.
 3. **Lead Capture:** Integrated investor deck request system.
-
 ---
 *Developed for the 2026 FinTech Innovation Panel.*
+© 2026 QuantumFlow.ai. All rights reserved. Confidential and Proprietary.
