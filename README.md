@@ -28,4 +28,5 @@ QuantumFlow utilizes **Variational Quantum Circuits (VQC)** integrated into a **
 3. **Lead Capture:** Integrated investor deck request system.
 ---
 *Developed for the 2026 FinTech Innovation Panel.*
+
 © 2026 QuantumFlow.ai. All rights reserved. Confidential and Proprietary.
